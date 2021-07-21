@@ -1,4 +1,4 @@
-# Product-Management-Nanodegree-Udacity
+# Product-Management-Nanodegree
 This repository consists of all projects done as part of Udacity's Product Manager nanodegree. I have taken the case study of DoorDash, a leading food delivery chain in USA, introducing robots for their delivery operations. The idea is to come up with a tool for the operations team to manage the robots remotely until the robot gets fully autonomous.
 
 Pre-conditions given: DoorDash is looking to automate food delivery using self-driving robots for trips that are less than 2 miles in order to reduce its operating costs and provide more reliable delivery times. The long term goal is that these delivery robots will navigate sidewalks fully autonomously. But initially, there may be times when manual intervention will be required. My team has been tasked with building a tool for the operations team-- to view the status of deliveries and remotely take control of robots that need intervention (i.e.: rerouting).
